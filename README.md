@@ -45,7 +45,7 @@ ____Welcome____
  pip install mechanize
  cd $HOME 
  rm -rf SSB
- git clone https://github.com/Sarfraz-Ssb/SSB
+ git clone https://github.com/Mr-Beta-Version/SSB
 ```
 #### RUN SCRIPT
 ```python
